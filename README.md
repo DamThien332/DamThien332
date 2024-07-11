@@ -5,7 +5,7 @@
 Name : "DammThien"
 Discord": 520716496813686794
 Development : Byte Hub
-Code : Lua, Py, LuaU
+Code : Lua, LuaU, C#, C++
 Ability : Coding , Bypass , Design
 Main Development : {
   "Byte Hub": "Free Script Hub support PC / Mobile with high quality",
